@@ -1,0 +1,38 @@
+[
+    {
+        "id": "txn_69d659d7b6609",
+        "user_email": "john@gmail.com",
+        "user_name": "John Doe",
+        "amount": 14000,
+        "platform": "whatsapp",
+        "status": "rejected",
+        "created_at": "2026-04-08 13:36:23"
+    },
+    {
+        "id": "txn_69d659ddd6673",
+        "user_email": "john@gmail.com",
+        "user_name": "John Doe",
+        "amount": 14000,
+        "platform": "telegram",
+        "status": "approved",
+        "created_at": "2026-04-08 13:36:29"
+    },
+    {
+        "id": "txn_69d6646792d6e",
+        "user_email": "john@gmail.com",
+        "user_name": "John Doe",
+        "amount": 14000,
+        "platform": "whatsapp",
+        "status": "approved",
+        "created_at": "2026-04-08 14:21:27"
+    },
+    {
+        "id": "txn_69d66d478c206",
+        "user_email": "emmywise@gmail.com",
+        "user_name": "Emmanuel Oche",
+        "amount": 14000,
+        "platform": "whatsapp",
+        "status": "approved",
+        "created_at": "2026-04-08 14:59:19"
+    }
+]
